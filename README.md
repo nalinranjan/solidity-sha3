@@ -1,6 +1,4 @@
 # solidity-sha3
-[![npm version](https://img.shields.io/npm/v/solidity-sha3.svg)](https://npmjs.org/package/solidity-sha3)
-[![Build Status](https://travis-ci.org/raineorshine/solidity-sha3.svg?branch=master)](https://travis-ci.org/raineorshine/solidity-sha3)
 
 `web3.sha3` doesn't always match the behavior of `sha3` in Solidity. This one does.
 
@@ -11,7 +9,7 @@
 ## Install
 
 ```sh
-$ npm install --save solidity-sha3
+$ npm install --save https://github.com/nalinranjan/solidity-sha3/tarball/master
 ```
 
 ## Usage
